@@ -45,8 +45,8 @@ for code in df7.loc[df7['semester'] == 7, 'code']:
 
 app = Dash(__name__)
 app.layout = html.Div([
-	dcc.Checklist(categories, categories, id='category', style={'font-size': '20px'}),
-	dcc.RadioItems(['Tidak IISMA', 'IISMA Semester 5', 'IISMA Semester 7'], 'Tidak IISMA', id='iisma', style={'font-size': '20px'}),
+	dcc.Checklist(categories, categories, id='category', style={'fontSize': '20px'}, inline=True),
+	dcc.RadioItems(['Tidak IISMA', 'IISMA Semester 5', 'IISMA Semester 7'], 'Tidak IISMA', id='iisma', style={'fontSize': '20px'}, inline=True),
 	dcc.Graph(id='graph')
 ])
 
@@ -69,7 +69,7 @@ def filter(category, iisma):
 	df = df.drop(columns=['index'])
 
 	dfd = df.groupby('semester').size()
-	dfe = df.groupby('semester').apply(lambda group: group.reset_index().iloc[0]['index'])
+	dfe = df.groupby('semester').apply(lambda group: group.reset_index().iloc[0]['index'], include_groups=False)
 
 	# print(dfd)
 	# print(dfe)
