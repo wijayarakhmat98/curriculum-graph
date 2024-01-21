@@ -1,0 +1,92 @@
+code,credits,semester,category,name
+UG184901,2,1,UPMB,Agama Islam
+UG184902,2,1,UPMB,Agama Kristen Protestan
+UG184903,2,1,UPMB,Agama Katolik
+UG184905,2,1,UPMB,Agama Budha
+UG184904,2,1,UPMB,Agama Hindu
+UG184914,2,1,UPMB,Bahasa Inggris
+SF184101,4,1,TPB,Fisika I
+SF184202,3,2,TPB,Fisika II
+SK184101,3,1,TPB,Kimia
+UG184911,2,3,UPMB,Pancasila
+KM184101,3,1,MAIN,Matematika I
+KM184201,3,2,MAIN,Matematika II
+KM184151,3,1,OTHER,Matematika
+KM184152,3,1,OTHER,Matematika
+KM180153,3,1,OTHER,Matematika
+KM184102,3,1,MAIN,Logika Matematika
+KM184103,3,1,MAIN,Geometri Analitik
+KM184203,4,2,MAIN,Aljabar Linier Elementer
+KM184402,3,4,MAIN,Aljabar I
+KM184501,4,5,MAIN,Analisis I
+KM184502,2,5,MAIN,Kalkulus Vektor
+KM184504,3,5,MAIN,Aljabar II
+KM184601,4,6,MAIN,Analisis II
+KM184602,3,6,MAIN,Fungsi Peubah Kompleks
+KM184702,3,7,MAIN,Aljabar Linier
+KM184704,3,7,MAIN,Analisis Kombinatorik
+KM184711,2,7,AA,Teori Bilangan
+KM184712,2,7,AA,Geometri
+KM184713,2,7,AA,Pengantar Teori Graph
+KM184811,2,8,AA,Teori Ukuran dan Integral
+KM184812,2,8,AA,Kapita Selekta Analisis
+KM184813,2,8,AA,Kapita Selekta Aljabar
+KM184814,2,8,AA,Transformasi Fourier dan Wavelet
+KM184815,2,8,AA,Geometri Diferensial
+KM184301,4,3,MAIN,Kalkulus Peubah Banyak
+KM184302,3,3,MAIN,Riset Operasi I
+KM184305,3,3,MAIN,Metode Statistika
+KM184401,3,4,MAIN,Persamaan Diferensial Biasa
+KW184901,3,4,MAIN,Teori Peluang
+KM184404,3,4,MAIN,Metode Numerik
+KM184405,3,4,MAIN,Riset Operasi II
+KM184503,3,5,MAIN,Persamaan Diferensial Parsial
+KM184505,3,5,MAIN,Matematika Statistika
+KM184603,3,6,MAIN,Metode Matematika
+KM184604,4,6,MAIN,Matematika Sistem
+KM184701,4,7,MAIN,Pemodelan Matematika
+KM184703,2,7,MAIN,Penulisan Ilmiah Matematika
+KM184714,2,7,MT,Persamaan Diferensial Tak Linier
+KM184715,2,7,MT,Persamaan Beda
+KM184716,2,7,MT,Pengantar Optimasi Dinamis
+KM184717,2,7,MT,Kerja Praktik
+KM184718,2,7,MT,Pengantar Matematika Keuangan
+KM184719,2,7,MT,Proses Stokastik
+KM184720,2,7,MT,Pengendalian Kualitas
+KM184816,2,8,MT,Estimasi Optimum
+KM184817,2,8,MT,Pengantar Sistem Dinamik
+KM184818,2,8,MT,Perancangan Eksperimen
+KM184819,2,8,MT,"Kapita Selekta Pemodelan, Sistem, dan Simulasi"
+KM184820,2,8,MT,"Kapita Selekta Stokastik, Optimasi, dan Resiko"
+KM184821,2,8,MT,Metode Peramalan
+KM184822,2,8,MT,Metode Elemen Hingga
+KM184823,2,8,MT,Pengantar Analisis Resiko
+KM184824,2,8,MT,Pengantar Komputasi Dinamika Fluida
+KM184825,2,8,MT,Persamaan Diferensial Parsial Numerik
+KM184721,2,7,MT,Persamaan Diferensial Numerik
+KM184731,3,7,MT,Pemodelan Matematika Sistem
+KM184202,4,2,MAIN,Algoritma dan Pemrograman
+KM184303,3,3,MAIN,Pemrograman Berorientasi Objek
+KM184304,3,3,MAIN,Matematika Diskrit
+KM184403,3,4,MAIN,Perangkat Lunak Matematika
+KM184506,3,5,MAIN,Teknik Simulasi
+KM184722,2,7,IK,Sistem Basis Data
+KM184723,2,7,IK,Pengolahan Citra Digital
+KM184724,2,7,IK,Kecerdasan Buatan
+KM184725,2,7,IK,Data Mining
+KM184726,2,7,IK,Struktur Data
+KM184826,2,8,IK,Desain dan Analisis Algoritma
+KM184827,2,8,IK,Rekayasa Perangkat Lunak
+KM184828,2,8,IK,Jaringan Syaraf Tiruan
+KM184829,2,8,IK,Logika Fuzzy
+KM184830,2,8,IK,Kriptografi
+KM184831,2,8,IK,Kapita Selekta Ilmu Komputasi
+KM184832,2,8,IK,Pengembangan Aplikasi Web
+KM184833,2,8,IK,Sistem Pendukung Keputusan
+KM184834,2,8,IK,Teknologi Basis Data
+UG18490X,2,2,UPMB,Agama
+UG184913,2,2,UPMB,Kewarganegaraan
+UG184912,2,6,UPMB,Bahasa Indonesia
+UG184915,2,7,UPMB,Technopreuneur
+KM184801,6,8,MAIN,Tugas Akhir
+UG184916,3,8,UPMB,Wawasan dan Aplikasi Teknologi
